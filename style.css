@@ -1,0 +1,22 @@
+body{
+    background-color :black
+}
+h1,h5,h3,caption,table{
+    color:bisque
+}
+label{
+    color : bisque;
+}
+h1{
+    text-align: center ;
+}
+div{
+    text-align : center;
+    font-size:large;
+    font-style: oblique;
+    /* font-weight: 200; */
+    /* font-variant: inherit; */
+}
+h3{
+    text-decoration: underline;
+}
